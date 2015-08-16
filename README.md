@@ -5,3 +5,4 @@
 
     helloWorld.rb - Hello World
     assignVar.rb  - Variables and Assignment
+    dataTypes.rb  - Data Types
