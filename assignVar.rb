@@ -66,4 +66,11 @@ s2 = "def"
 s3 = s1 + s2
 puts "s3 = #{s3}"
 
+# String multiplication
+s4 = "Happy new year !!!" * 3
+puts "s4 = #{s4}" 
 
+# Multiple lines of string
+s5 = %Q{This is a demostration of multiple lines of
+       string in Ruby. }
+puts "s5 = #{s5}" 
